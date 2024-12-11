@@ -1,3 +1,5 @@
+# Subtitle UI for DART
+
 # Automatic subtitles in your videos
 
 This repository uses `ffmpeg` and [OpenAI's Whisper](https://openai.com/blog/whisper) to automatically generate and overlay subtitles on any video.
